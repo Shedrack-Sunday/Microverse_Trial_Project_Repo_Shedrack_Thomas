@@ -44,9 +44,9 @@ h1, h2 {
 }
 #welcome-section{
      text-align:center ;
-    background:black ;
+    background:rgb(58, 48, 48) ;
 }
 #welcome-section :hover {
-    background-color: gray;
+    background-color: black;
     
 }

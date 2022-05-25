@@ -29,3 +29,17 @@ h1, h2 {
     margin-top: 0cm;
     position: fixed;
 }
+
+#navbar a{
+    text-decoration: solid;
+    color: brown;
+    font-size: 1.5em;
+    padding: 1em;
+    display: block;
+    background-color: rgb(22, 7, 36);
+}
+}
+
+#navbar a:hover{
+    background-color: rgb(28, 16, 39);
+   

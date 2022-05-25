@@ -42,3 +42,11 @@ h1, h2 {
 #navbar a:hover{
     background-color: rgb(28, 16, 39);
 }
+#welcome-section{
+     text-align:center ;
+    background:black ;
+}
+#welcome-section :hover {
+    background-color: gray;
+    
+}
